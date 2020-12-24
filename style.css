@@ -20,5 +20,10 @@
 	.section-style {
 	  margin-right: 25px;
 	  margin-left: 25px;
-	  background-color: white;
+	 
+        
 	}
+
+img{
+    border-radius: 200px;
+}

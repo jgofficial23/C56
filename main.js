@@ -1,9 +1,6 @@
 
-
-function setDate(){
+function freshlook(){
+  document.getElementById("mybody").style.backgroundColor="green"
  
-   
-  document.getElementById('date').innerHTML = new Date().toDateString();
-  document.getElementById("time").innerHTML= new Date().toTimeString();
   
 }
